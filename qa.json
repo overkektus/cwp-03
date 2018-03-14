@@ -1,0 +1,18 @@
+[
+  {
+    "quest": "Zero == undefined?",
+    "ans": "1"
+  },
+  {
+    "quest": "Minsk is a capital of Belarus?",
+    "ans": "1"
+  },
+  {
+    "quest" : "1 is more than 2?",
+    "good" : "0"
+  },
+  {
+    "quest" : "Chester Bennigton is alive?",
+    "good" : "0"
+  }
+]
